@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "30126f51c52b0a366b896b02d1e33684",
+  "assets/AssetManifest.json": "0798c1a84e6ed8f5b68d565b4af8ff8a",
 "assets/assets/beep.wav": "0553851cf1423f9fa4c6338c8e2eaa39",
 "assets/assets/catsplash.png": "1f187e96b72e5ae8cf783a83ffb49bba",
+"assets/assets/CHURCH_BACKGROUND.png": "e6b76667d74567819d48d53fedebb014",
 "assets/assets/tcuccplogo.png": "ec36c89ba64b850de40faccb0227c2e7",
 "assets/FontManifest.json": "67caeb3d6ccee3004971eb75355c8b72",
 "assets/fonts/Century725.ttf": "0b8f0b1f9a45a65c64f8261fefb148f6",
@@ -18,9 +19,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8f7378280c87db93a4707f73b788c5ac",
-"/": "8f7378280c87db93a4707f73b788c5ac",
-"main.dart.js": "6e2d7b7496fdc7d41e9c2b3ab72bf50e",
+"index.html": "7223e6a1b68390fea8f8b62e8913bf37",
+"/": "7223e6a1b68390fea8f8b62e8913bf37",
+"main.dart.js": "9beb1ec66bfee23e99bbadbe9ee5619f",
 "manifest.json": "98155fbb34507f1d238ef1e955d5299b",
 "version.json": "951615bbfc3c3efb6d81477eeab994a5"
 };
