@@ -3,24 +3,26 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e9e42ade730a655c3af584c90aadbf77",
+  "assets/AssetManifest.json": "0798c1a84e6ed8f5b68d565b4af8ff8a",
+"assets/assets/beep.wav": "0553851cf1423f9fa4c6338c8e2eaa39",
+"assets/assets/catsplash.png": "1f187e96b72e5ae8cf783a83ffb49bba",
 "assets/assets/CHURCH_BACKGROUND.png": "e6b76667d74567819d48d53fedebb014",
-"assets/assets/tcuccplogo.png": "71ca556f856daf958c752a00b9b85c31",
+"assets/assets/tcuccplogo.png": "ec36c89ba64b850de40faccb0227c2e7",
 "assets/FontManifest.json": "67caeb3d6ccee3004971eb75355c8b72",
 "assets/fonts/Century725.ttf": "0b8f0b1f9a45a65c64f8261fefb148f6",
 "assets/fonts/Hey.ttf": "6a997bb48ce029b330678bf029af5fa4",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "45552c1c5be136195e01d2054416f600",
+"assets/NOTICES": "23cb7699417d47607dac980b9740c33b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e1b6de5d5f08adaf4ddc0de01c97c832",
-"/": "e1b6de5d5f08adaf4ddc0de01c97c832",
-"main.dart.js": "02f936c9439bb0fb090bc2d89e051d77",
-"manifest.json": "369ea0a1ad88277c48cd7ad6a3f7438c",
+"index.html": "532239b57cd4b171a2370efed0839008",
+"/": "532239b57cd4b171a2370efed0839008",
+"main.dart.js": "53a4fcaf49a4e664efaa57e8b57f80a3",
+"manifest.json": "98155fbb34507f1d238ef1e955d5299b",
 "version.json": "951615bbfc3c3efb6d81477eeab994a5"
 };
 
